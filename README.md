@@ -1,1 +1,1 @@
-prepared text for github
+my test repository (various .js files)
