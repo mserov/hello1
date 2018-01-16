@@ -1,0 +1,22 @@
+{
+  "name": "hello1",
+  "version": "1.0.0",
+  "description": "this my first npm package to be published online",
+  "main": "hello1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mserov/hello1.git"
+  },
+  "author": "Mikhail Serov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mserov/hello1/issues"
+  },
+  "homepage": "https://github.com/mserov/hello1#readme"
+}
