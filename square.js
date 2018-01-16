@@ -1,4 +1,1 @@
-const square = (num) => {
-  const res = num * num;
-  return res;
-}
+module.exports = (num) => num * num;
